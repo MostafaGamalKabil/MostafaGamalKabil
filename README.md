@@ -43,12 +43,13 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "ProgramingLanguages" : { "Javascript",  "Python", "Dart",  "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Pug", "Json", "Gulp" },
+    "FrameWorks" : { "React js", "Next js", "Django" , "Flutter" },
+    "Libraries" : { "Bootstrap", "Tailwind css", "MUI" , "Swipper js" },
+    "Database" : { "Firebase", "Sqlite", "MongoDB" , "MySQL" },
+    "Editors" : { "Vscode", "Android Stdio", "Apache NetBeans" },
+    "OtherTools" : { "Git", "Figma", "Photoshop" }
   };
 }
 ```
@@ -73,13 +74,7 @@ class About extends Me {
   
 <hr></hr>
 
-**Code Cycle**<br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
