@@ -1,17 +1,32 @@
-<div align="left" width="50">
+<div align="center" width="100%">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+  <!-- عنوان -->
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> 
 
-<p>i'm mostafa gamal   <b style="font-weight: 900; font-size: 40px;">Software Engineer</b> & Content Creator on YouTube</p>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dev-mostafa&style=flat&color=orange&label=PROFILE+VIEWS)
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-[![LinkedIn](https://img.shields.io/badge/Mostafa%20Gamal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-gamal)
-[![Facebook](https://img.shields.io/badge/Mostafa%20Gamal-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/mostafa.gamal)
-[![Instagram](https://img.shields.io/badge/@mostafa.gamal-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mostafa.gamal)
+  <!-- الصورة اليمين -->
+  <div align="right" style="flex: 1;">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="80%"/>
+  </div>
 
+  <!-- الكلام والشبكات الشمال -->
+  <div align="left" style="flex: 1;">
+    <p>
+      I'm <b style="font-weight:900; font-size:30px;">Mostafa Gamal</b><br>
+      <b style="font-size:20px;">Software Engineer</b> & Content Creator on YouTube
+    </p>
 
+    ![Profile Views](https://komarev.com/ghpvc/?username=dev-mostafa&style=flat&color=orange&label=PROFILE+VIEWS)
+
+    [![LinkedIn](https://img.shields.io/badge/Mostafa%20Gamal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-gamal)  
+    [![Facebook](https://img.shields.io/badge/Mostafa%20Gamal-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/mostafa.gamal)  
+    [![Instagram](https://img.shields.io/badge/@mostafa.gamal-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mostafa.gamal)  
+  </div>
+
+</div>
 
 <hr></hr>
 
@@ -57,48 +72,3 @@
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-
-
-```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Javascript",  "Python", "Dart",  "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Pug", "Json", "Gulp" },
-    "FrameWorks" : { "React js", "Next js", "Django" , "Flutter" },
-    "Libraries" : { "Bootstrap", "Tailwind css", "MUI" , "Swipper js" },
-    "Database" : { "Firebase", "Sqlite", "MongoDB" , "MySQL" },
-    "Editors" : { "Vscode", "Android Stdio", "Apache NetBeans" },
-    "OtherTools" : { "Git", "Figma", "Photoshop" }
-  };
-}
-```
-
-
-
-<div align="center" >
-<a  href="https://github.com/SP-XD">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-  
-<hr></hr>
-
-
-
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
-
-</div>
-
