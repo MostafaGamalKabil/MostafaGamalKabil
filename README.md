@@ -5,12 +5,7 @@
 
 <p>i'm mostafa gamal   <b style="font-weight: 900; font-size: 40px;">Software Engineer</b> & Content Creator on YouTube</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dev-mostafa&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-mostafa&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
-[![LinkedIn](https://img.shields.io/badge/Mostafa%20Gamal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-gamal)
-[![Facebook](https://img.shields.io/badge/Mostafa%20Gamal-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/mostafa.gamal)
-[![Instagram](https://img.shields.io/badge/@mostafa.gamal-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mostafa.gamal)
 
 
 <hr></hr>
