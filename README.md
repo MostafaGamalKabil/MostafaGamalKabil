@@ -1,74 +1,16 @@
-<div align="center" width="100%">
+و <div align="center" width="50"> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%"/><br> <p>i'm mostafa gamal <b style="font-weight: 900; font-size: 40px;">Software Engineer</b> & Content Creator on YouTube</p> ![Profile Views](https://komarev.com/ghpvc/?username=dev-mostafa&style=flat&color=orange&label=PROFILE+VIEWS) [![LinkedIn](https://img.shields.io/badge/Mostafa%20Gamal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-gamal) [![Facebook](https://img.shields.io/badge/Mostafa%20Gamal-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/mostafa.gamal) [![Instagram](https://img.shields.io/badge/@mostafa.gamal-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mostafa.gamal) <hr></hr> ## 🛠️ Tech Stack ### 👨‍💻 Programming Languages ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ### 🌐 Other Languages ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white) ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white) ### ⚙️ Frameworks ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ### 📚 Libraries ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white) ![Swiper.js](https://img.shields.io/badge/Swiper.js-6332F6?style=flat&logo=swiper&logoColor=white) ### 🗄️ Databases ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ### 🖥️ Editors ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans_IDE-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white) ### 🛠️ Other Tools ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+dart
+// tools_I_use organized
 
-  <!-- عنوان -->
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> 
-
-</div>
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-  <!-- الصورة اليمين -->
-  <div align="right" style="flex: 1;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="80%"/>
-  </div>
-
-  <!-- الكلام والشبكات الشمال -->
-  <div align="left" style="flex: 1;">
-    <p>
-      I'm <b style="font-weight:900; font-size:30px;">Mostafa Gamal</b><br>
-      <b style="font-size:20px;">Software Engineer</b> & Content Creator on YouTube
-    </p>
-
-    ![Profile Views](https://komarev.com/ghpvc/?username=dev-mostafa&style=flat&color=orange&label=PROFILE+VIEWS)
-
-    [![LinkedIn](https://img.shields.io/badge/Mostafa%20Gamal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-gamal)  
-    [![Facebook](https://img.shields.io/badge/Mostafa%20Gamal-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/mostafa.gamal)  
-    [![Instagram](https://img.shields.io/badge/@mostafa.gamal-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mostafa.gamal)  
-  </div>
-
-</div>
-
-<hr></hr>
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-### 🌐 Other Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white)
-
-### ⚙️ Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-### 📚 Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
-![Swiper.js](https://img.shields.io/badge/Swiper.js-6332F6?style=flat&logo=swiper&logoColor=white)
-
-### 🗄️ Databases
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### 🖥️ Editors
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans_IDE-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
-
-### 🛠️ Other Tools
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Javascript",  "Python", "Dart",  "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Pug", "Json", "Gulp" },
+    "FrameWorks" : { "React js", "Next js", "Django" , "Flutter" },
+    "Libraries" : { "Bootstrap", "Tailwind css", "MUI" , "Swipper js" },
+    "Database" : { "Firebase", "Sqlite", "MongoDB" , "MySQL" },
+    "Editors" : { "Vscode", "Android Stdio", "Apache NetBeans" },
+    "OtherTools" : { "Git", "Figma", "Photoshop" }
+  };
+}
+<div align="center" > <a href="https://github.com/SP-XD"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </a> <details> <summary>More stats</summary> <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" > </details> <hr></hr> <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="40%"/--> </div>
