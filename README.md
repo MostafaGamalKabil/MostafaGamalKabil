@@ -7,10 +7,15 @@
  <p>i'm mostafa gamal <b style="font-weight: 900; font-size: 40px;">Software Engineer</b> & Content Creator on YouTube</p>
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=dev-mostafa&style=flat&color=orange&label=PROFILE+VIEWS)
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+[![LinkedIn](https://img.shields.io/badge/Mostafa%20Gamal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-gamal)
+[![Facebook](https://img.shields.io/badge/Mostafa%20Gamal-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/mostafa.gamal)
+[![Instagram](https://img.shields.io/badge/@mostafa.gamal-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mostafa.gamal)
+
+
+
 </div>
 
 <hr></hr>
