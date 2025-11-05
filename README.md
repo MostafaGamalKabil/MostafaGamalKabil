@@ -73,19 +73,6 @@
 
   </p>
 
-  // tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Javascript", "Python", "Dart", "c++"},
-    "OtherLanguages" : { "HTML", "CSS", "Pug", "Json", "Gulp" },
-    "FrameWorks" : { "React js", "Next js", "Django" , "Flutter" },
-    "Libraries" : { "Bootstrap", "Tailwind css", "MUI" , "Swipper js" }
-    "Database" : { "Firebase", "Sqlite", "MongoDB" , "MySQL" },
-    "Editors" : { "Vscode", "Android Stdio", "Apache NetBeans" },
-    "OtherTools" : { "Git", "Figma", "Photoshop" }
-  };
-}
 
 ### 🏆 GitHub Trophies
   <p align="left">
