@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white"/>
     <img src="https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white"/>
