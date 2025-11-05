@@ -12,9 +12,9 @@
 <h2 align="center">Software Engineer</h2>
 <br>
 
-  <p align="left">
-    <a href="https://www.linkedin.com/in/mostafa-kabil-50b824308/"> <!-- Google Me -->
-      <img src="https://readme-typing-svg.herokuapp.com/?></a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/mostafa-kabil-50b824308/"> 
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
   </p>
 
   <p>
