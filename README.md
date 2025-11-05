@@ -5,9 +5,9 @@
       <img src="https://img.shields.io/badge/10ᵗʰ Most Active User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
   </p>
 
-<h1 align="center">Hi, I'm Ahmed Hemeda</h1>
+<h1 align="center">Hi, I'm Mostafa gamal</h1>
 
-<h2 align="center">Software Engineer | .NET Developer</h2>
+<h2 align="center">Software Engineer</h2>
 <br>
 
   <p align="center">
@@ -29,7 +29,7 @@
 
   ### 📤 Connect & Competitive Programming
   <p align="left">
-    <a href="mailto:7hemeda@gmail.com">
+    <a href="kabilmostafa6@gmail.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
     <a href="https://www.linkedin.com/in/a-hemeda">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
