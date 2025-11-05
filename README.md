@@ -12,8 +12,8 @@
 <h2 align="center">Software Engineer</h2>
 <br>
 
-  <p align="center">
-    <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda](https://www.linkedin.com/in/mostafa-kabil-50b824308/"> <!-- Google Me -->
+  <p align="left">
+    <a href="https://www.linkedin.com/in/mostafa-kabil-50b824308/"> <!-- Google Me -->
       <img src="https://readme-typing-svg.herokuapp.com/?></a>
   </p>
 
